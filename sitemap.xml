@@ -1,70 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-    <url>
-    
-      <loc>https://piercedonovan.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://piercedonovan.github.io/students/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://piercedonovan.github.io/book/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://piercedonovan.github.io/research/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://piercedonovan.github.io/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://piercedonovan.github.io/publications/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://piercedonovan.github.io/strongtowns/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://piercedonovan.github.io/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://piercedonovan.github.io/teaching/</loc>
-    </url>
-    
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://piercedonovan.github.io/</loc>
+  </url><url>
+    <loc>https://piercedonovan.github.io/categories/</loc>
+  </url><url>
+    <loc>https://piercedonovan.github.io/students/</loc>
+  </url><url>
+    <loc>https://piercedonovan.github.io/book/</loc>
+  </url><url>
+    <loc>https://piercedonovan.github.io/research/</loc>
+  </url><url>
+    <loc>https://piercedonovan.github.io/publications/</loc>
+  </url><url>
+    <loc>https://piercedonovan.github.io/tags/</loc>
+  </url><url>
+    <loc>https://piercedonovan.github.io/teaching/</loc>
+  </url>
 </urlset>
