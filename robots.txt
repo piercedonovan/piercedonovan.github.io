@@ -4,10 +4,6 @@ Disallow: /
 
 Disallow: /categories/
 
-Disallow: /students/
-
-Disallow: /book/
-
 Disallow: /research/
 
 Disallow: /publications/
