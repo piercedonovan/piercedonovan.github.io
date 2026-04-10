@@ -12,6 +12,8 @@ Disallow: /research/
 
 Disallow: /publications/
 
+Disallow: /lab/
+
 Disallow: /tags/
 
 Disallow: /teaching/
